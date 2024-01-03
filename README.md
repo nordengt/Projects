@@ -45,9 +45,16 @@ To run or explore these projects locally, follow these general steps:
 git clone https://github.com/nordengt/PROJNGT.git
 ```
 
-2. Navigate to the desired project folder:
+2. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Navigate to the desired project folder:
+
 ```bash
 cd A_Classification/01_Predicting_Iris_Flower_Species/
 ```
 
-3. Follow the instructions in the project's README for setting up and running the project.
+4. Follow the instructions in the project's README for setting up and running the project.
