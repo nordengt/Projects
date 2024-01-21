@@ -46,7 +46,7 @@ git clone https://github.com/nordengt/PROJNGT.git
 pip install -r requirements.txt
 ```
 
-2. Navigate to the desired project folder:
+3. Navigate to the desired project folder:
 
 ```bash
 cd A_Classification/01_Predicting_Iris_Flower_Species/

@@ -11,7 +11,7 @@ Welcome to the PROJNGT repository! This is a collection of my projects related t
 
 ## Introduction
 
-The world of AI, ML, and DL is vast and ever-evolving, and this repository serves as a portfolio of my exploration and contributions to these domains. 
+The world of AI, ML and DL is vast and ever-evolving, and this repository serves as a portfolio of my exploration and contributions to these domains. 
 
 ## Projects
 
