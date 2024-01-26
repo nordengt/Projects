@@ -18,7 +18,7 @@ The world of AI, ML and DL is vast and ever-evolving, and this repository serves
 Feel free to dive into each project's folder for detailed documentation, code and instructions on how to execute them.
 
 **[A. Classification](A_Classification)**   
-- [01. Predicting Iris Flower Species](A_Classification/01_Predicting_Iris_Flower_Species/)
+- [01. Predicting Iris Flower Species](A_Classification/01_Predicting_Iris_Flower_Species_01/)
 
 
 
