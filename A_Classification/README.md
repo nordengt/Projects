@@ -7,3 +7,5 @@ In this repository, you will find a variety of classification projects, each add
 ## Projects
 
 **[01. Predicting Iris Flower Species](01_Predicting_Iris_Flower_Species_01/)**
+
+**[02. Digit Recognition](02_Digit_Recognition/)**
