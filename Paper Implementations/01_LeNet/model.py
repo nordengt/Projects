@@ -15,9 +15,10 @@ class LeNet5(nn.Module):
         self.tanh = nn.Tanh()
         self.flatten = nn.Flatten()
     
-    def forward(self, x: torch.Tensor):
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
         x = self.s2(self.tanh(self.c1(x)))
         x = self.s4(self.tanh(self.c3(x)))
         x = self.flatten(self.c5(x))
         x = self.output(self.tanh(self.f6(x)))
         return x
+    
