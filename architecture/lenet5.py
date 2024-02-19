@@ -1,3 +1,5 @@
+# Paper: http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
+
 import torch
 from torch import nn
 import torch.nn.functional as F
