@@ -11,8 +11,8 @@ Explore various projects of AI, ML and DL.
 
 ## [A. Classification](A.%20Classification/)
 
-- [01. Predicting Iris Flower Species](A_Classification/01_Predicting_Iris_Flower_Species_01/)
-- [02. Digit Recognition](A_Classification/02_Digit_Recognition_02/)
+- [01. Predicting Iris Flower Species](A.%20Classification/01.%20Predicting%20Iris%20Flower%20Species(01)/)
+- [02. Digit Recognition](A.%20Classification/02.%20Digit%20Recognition(02)/)
 
 
 ## [B. Regression](B.%20Regression/)

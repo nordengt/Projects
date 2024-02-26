@@ -1,5 +1,5 @@
 # A. Classification
 
-**[01. Predicting Iris Flower Species](01_Predicting_Iris_Flower_Species_01/)**
+**[01. Predicting Iris Flower Species](01.%20Predicting%20Iris%20Flower%20Species(01)/)**
 
-**[02. Digit Recognition](02_Digit_Recognition_02/)**
+**[02. Digit Recognition](02.%20Digit%20Recognition(02)/)**
