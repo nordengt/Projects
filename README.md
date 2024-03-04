@@ -4,7 +4,7 @@ Explore various projects of AI, ML and DL.
 
 ## [Paper Implementations](Paper%20Implementations/)
 
-### [1. CNN Papers](Paper%20Implementations/CNN%20Papers/)
+### [1. Computer Vision](Paper%20Implementations/Computer%20Vision/)
 
 - [LeNet5-Implementation: "Gradient Based Learning Applied to Document Recognition".](https://github.com/nordengt/LeNet5-Implementation)
 - [AlexNet-Implementation: "ImageNet Classification with Deep Convolutional Neural Networks"](https://github.com/nordengt/AlexNet-Implementation)
