@@ -1,4 +1,4 @@
-# GoogLeNet-Inception-V1-Implementation
+# GoogLeNet-Inception-V1-V2-Implementation
 
 See the implementation below: 
 
