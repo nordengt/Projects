@@ -13,6 +13,7 @@ Explore various projects of AI, ML and DL.
 - [U-Net-Implementation: "U-Net: Convolutional Networks for Biomedical Image Segmentation"](https://github.com/nordengt/U-Net-Implementation)
 - [ResNet-Implementation: "Deep Residual Learning for Image Recognition"](https://github.com/nordengt/ResNet-Implementation)
 - [SqueezeNet-Implementation: "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size"](https://github.com/nordengt/SqueezeNet-Implementation)
+- [DenseNet-Implementation: "Densely Connected Convolutional Networks"](https://github.com/nordengt/DenseNet-Implementation)
 
 ## [A. Classification](A.%20Classification/)
 
