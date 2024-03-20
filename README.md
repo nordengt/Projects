@@ -1,10 +1,10 @@
 # Projects
 
-Explore various projects of AI, ML and DL.
+Explore various projects of AI, ML and DL as well as Paper Implementations.
 
 ## [Paper Implementations](Paper%20Implementations/)
 
-### [1. Computer Vision](Paper%20Implementations/Computer%20Vision/)
+### [1. Convolutional Neural Networks (CNN)](Paper%20Implementations/Convolutional%20Neural%20Networks%20(CNN)/)
 
 - [LeNet5-Implementation: "Gradient Based Learning Applied to Document Recognition"](https://github.com/nordengt/LeNet5-Implementation)
 - [AlexNet-Implementation: "ImageNet Classification with Deep Convolutional Neural Networks"](https://github.com/nordengt/AlexNet-Implementation)
@@ -15,11 +15,11 @@ Explore various projects of AI, ML and DL.
 - [SqueezeNet-Implementation: "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size"](https://github.com/nordengt/SqueezeNet-Implementation)
 - [DenseNet-Implementation: "Densely Connected Convolutional Networks"](https://github.com/nordengt/DenseNet-Implementation)
 
-## [A. Classification](A.%20Classification/)
+### [2. Recurrent Neural Networks (RNN)](Paper%20Implementations/Recurrent%20Neural%20Networks%20(RNN)/)
 
-- [01. Predicting Iris Flower Species](A.%20Classification/01.%20Predicting%20Iris%20Flower%20Species(01)/)
-- [02. Digit Recognition](A.%20Classification/02.%20Digit%20Recognition(02)/)
 
-## [B. Regression](B.%20Regression/)
+## Project List
 
-- [01. Predicting House Prices](B.%20Regression/01.%20Predicting%20House%20Prices(03)/)
+- [01. Predicting Iris Flower Species](01.%20Predicting%20Iris%20Flower%20Species/)
+- [02. Digit Recognition](02.%20Digit%20Recognition/)
+- [03. Predicting House Prices](03.%20Predicting%20House%20Prices/)

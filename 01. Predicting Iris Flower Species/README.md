@@ -1,6 +1,6 @@
 # 01. Predicting Iris Flower Species
 
-The Iris Flower Species classification project involves building a machine learning model to identify and classify different species of Iris flowers based on certain features. The Iris dataset is a classic dataset in the field of machine learning and is often used for introductory exercises. It was introduced by the British biologist and statistician Ronald A. Fisher in 1936.
+The Iris Flower Species **Classification** project involves building a machine learning model to identify and classify different species of Iris flowers based on certain features. The Iris dataset is a classic dataset in the field of machine learning and is often used for introductory exercises. It was introduced by the British biologist and statistician Ronald A. Fisher in 1936.
 
 The problem is a multiclass classification task. Given measurements of sepal length, sepal width, petal length, and petal width, the goal is to classify an Iris flower into one of three species: Setosa, Versicolor, or Virginica.
 

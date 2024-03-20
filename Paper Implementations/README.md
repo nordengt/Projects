@@ -1,6 +1,6 @@
 # Paper Implementation
 
-## [1. Computer Vision](Computer%20Vision/)
+## [1. Convolutional Neural Networks (CNN)](Convolutional%20Neural%20Networks%20(CNN)/)
 
 - [LeNet5-Implementation: "Gradient Based Learning Applied to Document Recognition"](https://github.com/nordengt/LeNet5-Implementation)
 - [AlexNet-Implementation: "ImageNet Classification with Deep Convolutional Neural Networks"](https://github.com/nordengt/AlexNet-Implementation)
@@ -10,3 +10,7 @@
 - [ResNet-Implementation: "Deep Residual Learning for Image Recognition"](https://github.com/nordengt/ResNet-Implementation)
 - [SqueezeNet-Implementation: "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size"](https://github.com/nordengt/SqueezeNet-Implementation)
 - [DenseNet-Implementation: "Densely Connected Convolutional Networks"](https://github.com/nordengt/DenseNet-Implementation)
+
+
+### [2. Recurrent Neural Networks (RNN)](Recurrent%20Neural%20Networks%20(RNN)/)
+

@@ -1,6 +1,6 @@
 # 02. Digit Recognition
 
-Digit recognition is a classic problem in machine learning where the goal is to develop a model that can accurately identify and classify handwritten digits. This type of project is often considered a fundamental task in computer vision and is frequently used as a starting point for understanding image classification problems. The application of digit recognition spans various domains, such as postal automation, bank check processing, and more recently, in the development of optical character recognition (OCR) systems for digitizing handwritten notes.
+Digit recognition is a classic problem in machine learning where the goal is to develop a model that can accurately identify and **Classify** handwritten digits. This type of project is often considered a fundamental task in computer vision and is frequently used as a starting point for understanding image classification problems. The application of digit recognition spans various domains, such as postal automation, bank check processing, and more recently, in the development of optical character recognition (OCR) systems for digitizing handwritten notes.
 
 The main problem in digit recognition is to train a machine learning model to correctly classify images of handwritten digits into their respective numerical categories (0-9). The complexity lies in the variability of writing styles among individuals, different scales, rotations, and deformations of the digits. The model needs to be robust enough to handle these variations and generalize well to unseen data.
 
