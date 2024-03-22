@@ -1,4 +1,4 @@
-# 02. House Price Prediction Project
+# 03. House Price Prediction Project
 
 Real estate market is a vast and complex industry that involves buying, selling, renting or managing properties. One of the most important aspects in this field is determining the fair price of a property, which can be influenced by various factors such as location, size, number of rooms, age, and condition of the property among others. In order to help real estate professionals and individuals involved in buying or selling properties, a machine learning model for **Predicting** house prices based on relevant features is developed. This model will enable users to estimate the value of a property more accurately, facilitating decision making processes related to purchasing, selling or investing in real estate.
 

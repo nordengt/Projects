@@ -4,7 +4,7 @@ Explore various projects of AI, ML and DL as well as Paper Implementations.
 
 ## [Paper Implementations](Paper%20Implementations/)
 
-### [1. Convolutional Neural Networks (CNN)](Paper%20Implementations/Convolutional%20Neural%20Networks%20(CNN)/)
+### [1. Convolutional Neural Network (CNN)](Paper%20Implementations/Convolutional%20Neural%20Network%20(CNN)/)
 
 - [LeNet5-Implementation: "Gradient Based Learning Applied to Document Recognition"](https://github.com/nordengt/LeNet5-Implementation)
 - [AlexNet-Implementation: "ImageNet Classification with Deep Convolutional Neural Networks"](https://github.com/nordengt/AlexNet-Implementation)
@@ -15,7 +15,7 @@ Explore various projects of AI, ML and DL as well as Paper Implementations.
 - [SqueezeNet-Implementation: "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size"](https://github.com/nordengt/SqueezeNet-Implementation)
 - [DenseNet-Implementation: "Densely Connected Convolutional Networks"](https://github.com/nordengt/DenseNet-Implementation)
 
-### [2. Recurrent Neural Networks (RNN)](Paper%20Implementations/Recurrent%20Neural%20Networks%20(RNN)/)
+### [2. Recurrent Neural Network (RNN)](Paper%20Implementations/Recurrent%20Neural%20Network%20(RNN)/)
 
 
 ## Project List
