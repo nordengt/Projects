@@ -23,3 +23,4 @@ Explore various projects of AI, ML and DL as well as Paper Implementations.
 - [01. Predicting Iris Flower Species](01.%20Predicting%20Iris%20Flower%20Species/)
 - [02. Digit Recognition](02.%20Digit%20Recognition/)
 - [03. Predicting House Prices](03.%20Predicting%20House%20Prices/)
+- [04. ResNetFoodie](https://github.com/nordengt/ResNetFoodie)
