@@ -2,6 +2,10 @@
 
 Explore various projects of AI, ML and DL as well as Paper Implementations.
 
+## Project
+
+- [Text-to-Image Generator](https://github.com/Neha-Shrestha/Text-to-Image-Generator)
+
 ## [Paper Implementations](Paper%20Implementations/)
 
 ### [1. Convolutional Neural Network (CNN)](Paper%20Implementations/Convolutional%20Neural%20Network%20(CNN)/)
