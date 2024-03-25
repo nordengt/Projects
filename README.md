@@ -2,9 +2,9 @@
 
 Explore various projects of AI, ML and DL as well as Paper Implementations.
 
-## Milestone Project
+## Projects
 
-#### [Text-to-Image Generator](https://github.com/Neha-Shrestha/Text-to-Image-Generator)
+- Text-to-Image Generator](https://github.com/Neha-Shrestha/Text-to-Image-Generator)
 
 ## [Paper Implementations](Paper%20Implementations/)
 
@@ -22,7 +22,7 @@ Explore various projects of AI, ML and DL as well as Paper Implementations.
 ### [2. Recurrent Neural Network (RNN)](Paper%20Implementations/Recurrent%20Neural%20Network%20(RNN)/)
 
 
-## Project List
+## Other Projects
 
 - [01. Predicting Iris Flower Species](01.%20Predicting%20Iris%20Flower%20Species/)
 - [02. Digit Recognition](02.%20Digit%20Recognition/)
