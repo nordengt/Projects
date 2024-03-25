@@ -2,9 +2,9 @@
 
 Explore various projects of AI, ML and DL as well as Paper Implementations.
 
-## Project
+## Milestone Project
 
-- [Text-to-Image Generator](https://github.com/Neha-Shrestha/Text-to-Image-Generator)
+#### [Text-to-Image Generator](https://github.com/Neha-Shrestha/Text-to-Image-Generator)
 
 ## [Paper Implementations](Paper%20Implementations/)
 
