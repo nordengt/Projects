@@ -10,6 +10,7 @@ Explore various projects of AI, ML and DL as well as Paper Implementations.
 - [02. Digit Recognition](02.%20Digit%20Recognition/)
 - [03. Predicting House Prices](03.%20Predicting%20House%20Prices/)
 - [04. ResNetFoodie](https://github.com/nordengt/ResNetFoodie)
+- [05. Character Level RNN](https://github.com/nordengt/Character-Level-RNN)
 
 ## [Paper Implementations](Paper%20Implementations/)
 
